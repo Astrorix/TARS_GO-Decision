@@ -1,0 +1,497 @@
+simulate: true
+master: true
+
+auxe_bot {
+    x: 7.80
+    y: 4.24
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:   -1.57
+}
+
+auxe_bot {
+    x: 0.70
+    y: 0.70
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:  1.57
+}
+
+master_bot {
+    x:7.8
+    y:0.6
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:   3.14
+}
+
+master_bot {
+   x:0.8
+   y:4.2
+   z: 0
+
+   roll:  0
+   pitch: 0
+   yaw:   0
+}
+
+
+point {
+    x: 7.00
+    y: 3.46
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:   -2.313
+}
+
+point {
+    x: 1.10
+    y: 1.23
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:  0.713
+}
+
+
+
+
+buff_point {
+
+  x: 0.50
+  y: 2.79
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+buff_point {
+
+  x: 1.90
+  y: 1.65
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   3.14
+}
+
+buff_point {
+
+  x: 4.04
+  y: 4.04
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+buff_point {
+
+  x: 4.04
+  y: 0.45
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+buff_point {
+
+  x: 6.18
+  y: 2.83
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+buff_point {
+
+  x: 7.58
+  y: 1.69
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   3.14
+}
+
+
+wait_point {
+    x: 8.00
+    y: 4.24
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:   1.57
+}
+
+wait_point {
+
+    x: 0.70
+    y: 0.70
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:  -1.57
+}
+
+wait_point {
+    x:8.00
+    y:0.6
+    z: 0
+
+    roll:  0
+    pitch: 0
+    yaw:   3.14
+}
+
+wait_point {
+   x:0.8
+   y:4.2
+   z: 0
+
+   roll:  0
+   pitch: 0
+   yaw:   0
+}
+
+
+
+# search_path {
+#   x: 3.245
+#   y: 2.115
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   0
+# }
+
+# search_path {
+#   x: 5.245
+#   y: 2.115
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   0
+# }
+
+# search_path {
+#   x: 5.245
+#   y: 3.100
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   0
+# }
+
+# search_path {
+#   x: 6.040
+#   y: 4.185
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   -1.57
+# }
+
+# search_path {
+#   x: 3.245
+#   y: 3.100
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   0
+# }
+
+# search_path {
+#   x: 2.405
+#   y: 0.705
+#   z: 0
+
+#   roll:  0
+#   pitch: 0
+#   yaw:   1.57
+# }
+
+# 1
+search_path {
+  x: 5.6
+  y: 4.0
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   -3.14
+}
+# 2
+search_path {
+  x: 5.11
+  y: 2.24
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   -1.57
+}
+# 3
+search_path {
+  x: 2.2
+  y: 0.6
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+# 4
+search_path {
+  x: 6.32
+  y: 0.6
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   -3.14
+}
+# 5
+search_path {
+  x: 5.11
+  y: 2.24
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   1.57
+}
+# 6
+search_path {
+  x: 1.6
+  y: 4.0
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+#slave_path
+#1
+e_search_path {
+  x: 6.0
+  y: 1.6
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#2
+e_search_path {
+  x: 6.0
+  y: 0.5
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#3
+e_search_path {
+  x: 4.04
+  y: 0.5
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#4
+e_search_path {
+  x: 2.3
+  y: 0.5
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#5
+e_search_path {
+  x: 2.3
+  y: 1.6
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#6
+e_search_path {
+  x: 4.04
+  y: 1.6
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+#master_path
+#1
+c_search_path {
+  x: 5.2
+  y: 4.0
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#2
+c_search_path {
+  x: 5.2
+  y: 2.9
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+#3
+c_search_path {
+  x: 4.04
+  y: 2.9
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#4
+c_search_path {
+  x: 1.3
+  y: 2.9
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#5
+c_search_path {
+  x: 1.3
+  y: 4.0
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+#6
+c_search_path {
+  x: 4.04
+  y: 4.0
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+#逃跑
+escape {
+  x: 3.27
+  y: 1.71
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+escape {
+  x: 7.5
+  y: 2.8
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+escape {
+  x: 6.5
+  y: 0.5
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+escape {
+  x: 0.5
+  y: 1.5
+  z: 0
+
+  roll:  0
+  pitch: 0
+  yaw:   0
+}
+
+
+whirl_vel {
+  angle_x_vel: 0
+  angle_y_vel: 0
+  angle_z_vel: 5
+}
+
+
+square_x : 0.5
+square_x : 1.0
+square_x : 1.5
+square_x : 2.0
+square_x : 2.5
+square_x : 3.0
+square_x : 3.5
+square_x : 4.0
+square_x : 4.5
+square_x : 5.0
+square_x : 5.5
+square_x : 6.0
+square_x : 6.5
+square_x : 7.0
+square_x : 7.5
+square_x : 8.0
+
+square_y : 0.5
+square_y : 1.0
+square_y : 1.5
+square_y : 2.0
+square_y : 2.5
+square_y : 3.0
+square_y : 3.5
+square_y : 4.0
